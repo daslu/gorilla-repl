@@ -11,7 +11,7 @@ gorilla repl.
 
 ## Details
 
-R is accessed through [jvmr](http://dahl.byu.edu/software/jvmr/). Java is dynamically compiled using [janino](http://dahl.byu.edu/software/jvmr/).
+R is accessed through [jvmr](http://dahl.byu.edu/software/jvmr/). Java is dynamically compiled using [janino](http://docs.codehaus.org/display/JANINO/Home).
 
 ## Usage
 
